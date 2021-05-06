@@ -27,3 +27,59 @@ a {
     padding: 60px;
     margin: 10px 0px 30px 0px;
 }
+/* header */
+header {
+    border-bottom: solid 1px rgb(223, 223, 223);
+}
+.header-nav {
+    padding: 20px 10px 10px 10px;
+}
+.logo{
+    width: 40px;
+}
+/* end of header */
+.app-feature {
+    display: flex;
+    background-color: #1e3932;
+    color: white;
+    margin-bottom: 10px;
+}
+.card-text {
+    padding: 100px;
+
+}
+.light-button {
+    color: white;
+    border: solid 1px;
+    border-radius: 15px;
+    padding: 5px 15px;
+}
+.dark-button {
+    color: #1e3932;
+    border: solid 1px;
+    border-radius: 15px;
+    padding: 5px 15px;
+}
+.food-feature {
+    display: flex;
+    background-color: #f2f0eb;
+    color: #1e3932;
+    margin-bottom: 10px;
+}
+.discover-feature {
+    display: flex;
+    background-color: #d4e9e2;
+    color: #1e3932;
+    margin-bottom: 10px;
+}
+.disclamier {
+    padding: 10px 120px;
+    margin: 10px 0;
+}
+/* footer */
+.main-footer {
+    font-weight: bold;
+}
+.line {
+    border: solid 1px rgb(223, 223, 223);
+}
